@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Fibrinha.jpg-800b7dc1f3ba8d52f31188eb95a1cead.stex"
+path="res://.import/Pixilart Sprite Sheet (9).png-7360629cc9fe5dbf64a3f332c376426a.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Fibrinha.jpg"
-dest_files=[ "res://.import/Fibrinha.jpg-800b7dc1f3ba8d52f31188eb95a1cead.stex" ]
+source_file="res://sprites fibrinha/Pixilart Sprite Sheet (9).png"
+dest_files=[ "res://.import/Pixilart Sprite Sheet (9).png-7360629cc9fe5dbf64a3f332c376426a.stex" ]
 
 [params]
 

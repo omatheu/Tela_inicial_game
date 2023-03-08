@@ -14,6 +14,11 @@ config/name="top_dow_cena_1"
 run/main_scene="res://sceanes/main.tscn"
 config/icon="res://icon.png"
 
+[display]
+
+window/size/fullscreen=true
+window/stretch/mode="viewport"
+
 [editor_plugins]
 
 enabled=PoolStringArray( "res://addons/vnen.tiled_importer/plugin.cfg" )

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/FibrinhaSemFundo.png-877ade1dba47eb8190a0059cb889a242.stex"
+path="res://.import/Fibrinha-removebg-preview.png-019ead92a1534382345bf703a803399e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://FibrinhaSemFundo.png"
-dest_files=[ "res://.import/FibrinhaSemFundo.png-877ade1dba47eb8190a0059cb889a242.stex" ]
+source_file="res://sprites fibrinha/Fibrinha-removebg-preview.png"
+dest_files=[ "res://.import/Fibrinha-removebg-preview.png-019ead92a1534382345bf703a803399e.stex" ]
 
 [params]
 
